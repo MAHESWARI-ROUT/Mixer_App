@@ -31,7 +31,7 @@ class SubscriptionData {
       title: 'Mixer VIP',
       price: 99.99,
       description: 'Mixer + VIP seating,\nfood & beverages',
-      assetimage: AssetImage('assets/images/Frame117178631.png'),
+      assetimage: AssetImage('assets/images/yell_heart.png'),
       features: vipFeatures,
     ),
   ];
